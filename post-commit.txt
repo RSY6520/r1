@@ -1,0 +1,7 @@
+#!bin/bash
+
+
+PLEASE DON'T PUSH MANUALLY  HERE PUSHING IS  AUTOMATED!!!!!
+
+
+git push
